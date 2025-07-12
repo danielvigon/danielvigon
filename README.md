@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0060D0,100:00073D&height=128&section=header" alt="danielvigon's GitHub profile banner"/>
+</diiv>
+
 <h1 align="center">🧑‍💻 Olá, sou o Daniel!</h1>
 
 > <h3 align="center">Nem sempre fui programador, mas sempre fui curioso. O que começou com um desafio universitário me reacendeu uma chama antiga: o prazer de resolver problemas.</h3>
@@ -99,3 +103,7 @@ Hoje, escrevo códigos com a mesma empolgação de quem resolve um enigma desafi
 
 Muito obrigado por visitar meu perfil.
 Espero que algum dos meus projetos inspire você também. ✌️
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00073D,100:0060D0&height=128&section=footer" alt="danielvigon's GitHub profile footer"/>
+</div>
