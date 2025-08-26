@@ -35,13 +35,13 @@ Hoje, escrevo códigos com a mesma empolgação de quem resolve um enigma desafi
 
   <div align="center">
   
-  ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-  ![Java](https://img.shields.io/badge/-Java-F80000?style=flat&logo=openjdk&logoColor=white)
-  ![Python](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
+  ![C# Programming Languange](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+  ![Java Programming Languange](https://img.shields.io/badge/-Java-F80000?style=flat&logo=openjdk&logoColor=white)
+  ![Python Programming Languange](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
-  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
+  ![.NET Framework](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
+  ![Spring Boot Framework](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
+  ![Django Framework](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
     
   </div>  
@@ -68,12 +68,13 @@ Hoje, escrevo códigos com a mesma empolgação de quem resolve um enigma desafi
 <div align="center">  
 <h2>Meu GitHub por dentro 📈</h2>
 
-  ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanielvigon%2F&label=VISITANTES&icon=github&color=%23cfe2ff&message=&style=for-the-badge&tz=Etc%2FGMT-3)
+  ![danielvigon's Github visitors](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanielvigon%2F&label=VISITANTES&icon=github&color=%23cfe2ff&message=&style=for-the-badge&tz=Etc%2FGMT-3)
   <br>
   <br>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielvigon&layout=compact&theme=dark&locale=pt-br)
+  ![danielvigon's GitHub activity graph](https://ssr-contributions-svg.vercel.app/_/danielvigon?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark)
   <br>
   ![danielvigon's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvigon&show_icons=true&theme=dark&locale=pt-br)
+  ![danielvigon's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielvigon&layout=compact&theme=dark&locale=pt-br)
 
 </div>
 
