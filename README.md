@@ -73,8 +73,8 @@ Hoje, escrevo códigos com a mesma empolgação de quem resolve um enigma desafi
   <br>
   ![danielvigon's GitHub activity graph](https://ssr-contributions-svg.vercel.app/_/danielvigon?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=dark)
   <br>
-  ![danielvigon's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvigon&show_icons=true&theme=dark&locale=pt-br)
   ![danielvigon's Github top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielvigon&layout=compact&theme=dark&locale=pt-br)
+  <!--![danielvigon's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielvigon&show_icons=true&theme=dark&locale=pt-br)-->
 
 </div>
 
