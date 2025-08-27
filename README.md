@@ -61,7 +61,7 @@ Hoje, escrevo códigos com a mesma empolgação de quem resolve um enigma desafi
 ---
 
 <div align="center">  
-<h2>Meu GitHub por dentro 📈</h2>
+<h3>Meu GitHub por dentro 📈</h3>
 
   ![danielvigon's Github visitors](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanielvigon%2F&label=VISITANTES&icon=github&color=%23cfe2ff&message=&style=for-the-badge&tz=Etc%2FGMT-3)
   <br>
