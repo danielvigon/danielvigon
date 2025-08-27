@@ -2,12 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0060D0,100:00073D&height=128&section=header" alt="danielvigon's GitHub profile banner"/>
 </diiv>
 
-<h1 align="center">🧑‍💻 Olá, sou o Daniel!</h1>
-
-> <h3 align="center">Nem sempre fui programador, mas sempre fui curioso. O que começou com um desafio universitário me reacendeu uma chama antiga: o prazer de resolver problemas.</h3>
-
-Boas-vindas ao meu perfil!    
-Aqui você encontrará fragmentos da minha jornada como desenvolvedor — códigos que nasceram de desafios, de curiosidades e, muitas vezes, de perguntas sem resposta.
+![danielvigon's GitHub Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Eu+sou+o+Daniel%2C+um+Desenvolvedor+Back-End;viciado+por+resolver+problemas)
 
 ---
 
@@ -99,11 +94,6 @@ Hoje, escrevo códigos com a mesma empolgação de quem resolve um enigma desafi
 </div> 
   
 ---
-
-> *Código é apenas a linguagem — o verdadeiro desafio está na lógica por trás.*
-
-Muito obrigado por visitar meu perfil.
-Espero que algum dos meus projetos inspire você também. ✌️
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00073D,100:0060D0&height=128&section=footer" alt="danielvigon's GitHub profile footer"/>
