@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0060D0,100:00073D&height=128&section=header" alt="danielvigon's GitHub profile banner"/>
 </diiv>
 
-![danielvigon's GitHub Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Bem-vindo+ao+meu+GitHub!;Eu+sou+o+Daniel%2C+um+Desenvolvedor+Back-End;viciado+por+resolver+problemas)
+![danielvigon's GitHub Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Oi,+bem-vindo+ao+meu+GitHub!;Eu+sou+o+Daniel%2C+um+Desenvolvedor+Back-End;viciado+por+resolver+problemas)
 
 ---
 
