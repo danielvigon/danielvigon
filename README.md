@@ -6,9 +6,9 @@
 
 ---
 
-<h2 align="center">
+<h3 align="center">
   Sobre mim 😄
-</h2>
+</h3>
 
 Desde novo, sou movido pela vontade de entender o que está embaixo do "capô" — os padrões, os mecanismos, as tecnologias.    
 Em 2024, passei por alguns desafios colaborativos para uma universidade americana — essa única oportunidade me bastou para perceber que:  
@@ -20,9 +20,9 @@ Hoje, escrevo códigos com a mesma empolgação de quem resolve um enigma desafi
 
 <div>
 
-  <h2 align="center">
+  <h3 align="center">
     Tecnologias & ferramentas 🔧
-  </h2>
+  </h3>
 
   <p>
     Aqui estão algumas tecnologias com as quais me divirto:
@@ -30,14 +30,14 @@ Hoje, escrevo códigos com a mesma empolgação de quem resolve um enigma desafi
 
   <div align="center">
   
-  ![C# Programming Languange](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
-  ![Java Programming Languange](https://img.shields.io/badge/-Java-F80000?style=flat&logo=openjdk&logoColor=white)
-  ![Python Programming Languange](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+  ![C# Programming Language](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)
+  ![Java Programming Language](https://img.shields.io/badge/-Java-F80000?style=flat&logo=openjdk&logoColor=white)
+  ![Python Programming Language](https://img.shields.io/badge/-Python-306998?style=flat&logo=python&logoColor=white)
+  ![Git Distributed Version Control System](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
   ![.NET Framework](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff)
   ![Spring Boot Framework](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)
   ![Django Framework](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
+  ![MySQL Database Management System](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)
     
   </div>  
 </div>
@@ -47,9 +47,9 @@ Hoje, escrevo códigos com a mesma empolgação de quem resolve um enigma desafi
 ---
 
 <div>
-  <h2 align="center">
+  <h3 align="center">
     Meus projetos pessoais 🚀
-  </h2>
+  </h3>
   
   🕹️ **Batalha Naval (Java)**  
   > Jogo lógico que reproduz a clássica estratégia naval, com uma lógica robusta de posicionamento e ataque.
@@ -76,7 +76,7 @@ Hoje, escrevo códigos com a mesma empolgação de quem resolve um enigma desafi
 ---
 
 <div>
-  <h2 align="center">Vamos nos conectar? 🌎</h2>
+  <h3 align="center">Vamos nos conectar? 🌎</h3>
 
   <p>
     Sempre estou aberto a parcerias, novas ideias e bons desafios.
